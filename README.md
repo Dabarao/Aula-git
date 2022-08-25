@@ -2,8 +2,6 @@
 
 Vamos ter uma aula de git
 
-Supimpa
-
-Bruxuleante
-
-Tergiversar
+Supimpa. 1
+Supimpa. 1
+Supimpa. 1
