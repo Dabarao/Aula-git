@@ -2,7 +2,7 @@
 
 Vamos ter uma aula de git
 
-Supimpa. 1
+
 Supimpa. 3
 Supimpa. 2
 
