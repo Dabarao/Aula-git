@@ -4,7 +4,7 @@ Teste 123
 
 Vamos ter uma aula de git
 
-Teste 123
+Novo teste
 
 Supimpa. 3
 Supimpa. 2
