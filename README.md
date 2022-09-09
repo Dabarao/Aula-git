@@ -12,7 +12,13 @@ Supimpa. 2
 
 
 ```python
+nome = input("informe o nome:")
+idade = int(input("Informe a idade:"))
+
+
 print('Hello World')
+
+
 ```
 ```java
 
