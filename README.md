@@ -15,7 +15,7 @@ Supimpa. 2
 nome = input("informe o nome:")
 idade = int(input("Informe a idade:"))
 
-
+print(idade)
 print('Hello World')
 
 
