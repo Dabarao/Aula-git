@@ -6,6 +6,7 @@ Vamos ter uma aula de git
 
 Tonitruante
 
+Supimpa 1
 Supimpa. 3
 Supimpa. 2
 
